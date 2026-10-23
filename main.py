@@ -1,1 +1,1 @@
-welcome tO git AND GIThu tRAINING SEssions
+welcome tO git AND GIThuB tRAINING SEssions
